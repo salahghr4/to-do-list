@@ -22,6 +22,10 @@ The **To-Do List App** is a simple and intuitive application built with React th
 - **JavaScript**: For application logic.
 - **HTML**: For structuring the application.
 
+## Demo
+
+Check out the live demo: [To-Do List App](https://salah-todo-list.netlify.app)
+
 ## Installation
 
 1. Clone the repository:
